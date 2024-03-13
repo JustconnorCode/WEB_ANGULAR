@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "productName": "Cây lưỡi hổ",
+      "productCode": "GDN-0023",
+      "inStock": 5,
+      "price": 25,
+      "description": "Cây luoi hổ Mexico, còn được gọi là Agave lechuguilla, là một loại cây xương rồng thường được tìm thấy ở vùng sa mạc và cây này thường có thân màu xám xanh và lá có gai sắc nhọn. Cây luoi hổ Mexico thường được sử dụng trong việc sản xuất một loại rượu mạnh truyền thống tại Mexico, được biết đến với tên maguey.",
+      "starRating": 5,
+      "imageUrl": "./assets/images/2.png",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "productName": "Cây xương rồng",
+      "productCode": "TBX-0048",
+      "description": "Cây xương rồng Mexico, còn được gọi là Euphorbia ingens, là một loại cây xương rồng cỡ lớn có nguồn gốc từ Nam Phi và Namibia. Cây này thường được trồng làm cây cảnh trong vườn hoặc sân vườn do hình dáng độc đáo và dễ chăm sóc.",
+      "price": 30,
+      "starRating": 4.8,
+      "inStock": 5,
+      "imageUrl": "./assets/images/3.png"
+    },
+    {
+      "id": "4",
+      "productName": "Cây xương rồng",
+      "productCode": "TBX-0022",
+      "description": "Cây xương rồng Mexico, còn được gọi là Euphorbia ingens, là một loại cây xương rồng cỡ lớn có nguồn gốc từ Nam Phi và Namibia. Cây này thường được trồng làm cây cảnh trong vườn hoặc sân vườn do hình dáng độc đáo và dễ chăm sóc.",
+      "price": 30,
+      "starRating": 3.7,
+      "inStock": 5,
+      "imageUrl": "./assets/images/4.png"
+    },
+    {
+      "id": "5",
+      "productName": "Cây xương rồng",
+      "productCode": "GMG-0042",
+      "description": "Cây xương rồng Mexico, còn được gọi là Euphorbia ingens, là một loại cây xương rồng cỡ lớn có nguồn gốc từ Nam Phi và Namibia. Cây này thường được trồng làm cây cảnh trong vườn hoặc sân vườn do hình dáng độc đáo và dễ chăm sóc.",
+      "price": 30,
+      "starRating": 4.6,
+      "inStock": 5,
+      "imageUrl": "./assets/images/5.png"
+    },
+    {
+      "id": "6",
+      "productName": "Cây lưỡi hổ",
+      "productCode": "GMG-0042",
+      "description": "Cây lưỡi hổ Mexico, còn được gọi là Agave lechuguilla, là một loại cây xương rồng thường được tìm thấy ở vùng sa mạc và cây này thường có thân màu xám xanh và lá có gai sắc nhọn. Cây luoi hổ Mexico thường được sử dụng trong việc sản xuất một loại rượu mạnh truyền thống tại Mexico, được biết đến với tên maguey.",
+      "price": 30,
+      "starRating": 4.6,
+      "inStock": 5,
+      "imageUrl": "./assets/images/6.png"
+    },
+    {
+      "id": "7",
+      "productName": "Cây xương rồng",
+      "productCode": "GMG-0042",
+      "description": "Cây xương rồng Mexico, còn được gọi là Euphorbia ingens, là một loại cây xương rồng cỡ lớn có nguồn gốc từ Nam Phi và Namibia. Cây này thường được trồng làm cây cảnh trong vườn hoặc sân vườn do hình dáng độc đáo và dễ chăm sóc.",
+      "price": 30,
+      "starRating": 4.6,
+      "inStock": 5,
+      "imageUrl": "./assets/images/7.png"
+    },
+    {
+      "id": "8",
+      "productName": "Cây xương rồng",
+      "productCode": "GMG-0042",
+      "description": "Cây xương rồng Mexico, còn được gọi là Euphorbia ingens, là một loại cây xương rồng cỡ lớn có nguồn gốc từ Nam Phi và Namibia. Cây này thường được trồng làm cây cảnh trong vườn hoặc sân vườn do hình dáng độc đáo và dễ chăm sóc.",
+      "price": 30,
+      "starRating": 4.6,
+      "inStock": 5,
+      "imageUrl": "./assets/images/8.png"
+    },
+    {
+      "productName": "Cây xương rồng",
+      "productCode": "GMD-r33",
+      "inStock": 5,
+      "price": 30,
+      "description": "dfdfdfdfdfdfdf",
+      "starRating": 5,
+      "imageUrl": "./assets/images/1.png",
+      "id": "9e53"
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "12345678",
+      "role": 2,
+      "id": "9ad6"
+    },
+    {
+      "id": "e38a",
+      "email": "user@gmail.com",
+      "password": "12345678",
+      "role": 1
+    },
+    {
+      "id": "d4e4",
+      "email": "nguyentan123@gmail.com",
+      "password": "12345678",
+      "role": 1
+    },
+    {
+      "id": "069d",
+      "email": "usertest@gmail.com",
+      "password": "12345678",
+      "role": 1
+    },
+    {
+      "id": "5ef6",
+      "email": "usertest2@gmail.com",
+      "password": "12345678",
+      "role": 1
+    }
+  ]
+}
